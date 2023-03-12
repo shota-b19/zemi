@@ -1,1 +1,3 @@
 # zemi
+
+codes for seminar
